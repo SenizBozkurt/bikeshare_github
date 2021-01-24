@@ -18,6 +18,7 @@ In this project, _Python_ is used to explore data related to bike share systems 
     - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## **Softwares needed:**
+
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
 * A text editor, like _VS Code_ or _Atom_.
 * A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
