@@ -2,12 +2,12 @@
 
 ## 24th Jan'21 
 
-## **Overview:**
+## **Overview**
 In this project, _Python_ is used to explore data related to bike share systems for three major cities in the United States-_Chicago, New York City,_ and _Washington_. 
 - The source code takes in raw input from the user to create an interactive experience. 
 - According to the input the code will import the data and will provide information by computing descriptive statistics.
 
-## **Files used:**
+## **Files used**
 * bikeshare.py
 
 ## **Credits:**
@@ -17,23 +17,23 @@ In this project, _Python_ is used to explore data related to bike share systems 
 * The link for commit message style reference for this project is given below :
     - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
 
-## **Softwares needed:**
+## **Softwares needed**
 
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
 * A text editor, like _VS Code_ or _Atom_.
 * A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
 
-## **Installation links for softwares:**
+## **Installation links for softwares**
 * [Git for windows - for terminal application using Git Bash](https://gitforwindows.org/)
 * [Python using Anaconda (latest version for windows)](https://www.anaconda.com/distribution/)
 * [Visual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
 
-## **Links for software tutorials:**
+## **Links for software tutorials**
 * [Git - Reference](https://git-scm.com/docs)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [VS Code Documentation](https://code.visualstudio.com/docs)
 
-## **Code explained in Detail:**
+## **Code explained in Detail**
 ### **How the program works:**
 The code developed takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions will change! There are four questions that will change the answers:
 
@@ -44,7 +44,7 @@ The code developed takes in raw input to create an interactive experience in the
 
 The answers to the questions above will determine the city and timeframe on which you'll do data analysis. After filtering the dataset, users will see the statistical result of the data, and choose to start again or exit.
 
-### **The Datasets:**
+### **The Datasets**
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
 * Start Time (e.g., 2017-01-01 00:07:57)
@@ -59,7 +59,7 @@ The _Chicago_ and _New York City_ files also have the following two columns:
 * Gender
 * Birth Year
 
-### **Statistics Computed:**
+### **Statistics Computed**
 The code helps user to tell about bike share use in _Chicago_, _New York City_ and _Washington_ by computing a variety of descriptive statistics. In this project, the code output will provide the following information:
 
 * Popular times of travel (i.e., occurs most often in the start time):
