@@ -151,7 +151,8 @@ def user_stats(df, city):
         # Display counts of gender
         gen = df.groupby(['Gender'])['Gender'].count()
         print(gen)
-        # Display earliest, most recent, and most common year of birth
+		
+        # Display earliest, most recent, and most common year of birth		
         mryob = sorted(df.groupby(['Birth Year'])['Birth Year'], reverse=True)[0][0]
         eyob = sorted(df.groupby(['Birth Year'])['Birth Year'])[0][0]
         mcyob = df['Birth Year'].mode()[0]
