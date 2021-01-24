@@ -10,12 +10,14 @@ In this project, _Python_ is used to explore data related to bike share systems 
 ## **Files used**
 * bikeshare.py
 
-## **Credits:**
+## **Credits**
 * The data for all 3 cities that is used in this project can be accessed through the link mentioned below :
     - [City Data](https://drive.google.com/file/d/1km4EggJaSvHos_7KKFuHoJxbh-StyM4G/view?usp=sharing)
 
 * The link for commit message style reference for this project is given below :
     - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/)
+	
+* Udacity mentor
 
 ## **Softwares needed**
 
