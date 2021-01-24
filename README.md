@@ -1,6 +1,6 @@
 # **US Bikeshare Data Analysis Project** 
 
-## 24th Jan'21
+## 24th Jan'21 
 
 ## **Overview:**
 In this project, _Python_ is used to explore data related to bike share systems for three major cities in the United States — _Chicago, New York City,_ and _Washington_. 
